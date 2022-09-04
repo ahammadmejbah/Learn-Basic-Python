@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<itbooks>
+  <book category="python">
+    <title lang="en">Think Python</title>
+    <author>A B Downey</author>
+    <year>2015</year>
+    <price>300</price>
+  </book>
+  <book category="hadoop">
+    <title lang="en">Def Guide</title>
+    <author>Tom White</author>
+    <year>2015</year>
+    <price>900</price>
+  </book>
+  <book category="CPP">
+    <title lang="en">Let us cpp</title>
+    <author>Y Kenetkar</author>
+    <year>2010</year>
+    <price>349</price>
+  </book>
+  <book category="unix">
+    <title lang="en">Design of Unix OS</title>
+    <author>M J Bach</author>
+    <year>2003</year>
+    <price>839</price>
+  </book>
+</itbooks>
